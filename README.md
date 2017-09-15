@@ -13,6 +13,6 @@
 	<dependency>
 		<groupId>com.doublechain</groupId>
 		<artifactId>multichain-rpc</artifactId>
-		<version>0.4.0-SNAPSHOT</version>
+		<version>0.4.1.2-SNAPSHOT</version>
 	</dependency>
 ```
